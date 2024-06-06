@@ -108,3 +108,8 @@ Os resultados dos modelos no conjunto de dados de teste são os seguintes:
 
 O KNN, a Árvore de Decisão e o SVM com kernel RBF são modelos eficazes para a classificação do conjunto de dados Íris. Cada modelo tem suas próprias vantagens e limitações, e a escolha do modelo mais adequado depende da natureza dos dados e dos requisitos do problema.
 
+## Outros projetos e Portifólio:
+Veja os tutoriais publicados do Sigmoidal:
+
+* **Analise de dados do Airbnb Los Angeles:** https://github.com/JpLimags/Analise_dados_Airbnb
+* **Como Implementar Regressão Linear com Python:** https://github.com/JpLimags/Portifolio
