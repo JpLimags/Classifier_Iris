@@ -47,6 +47,8 @@ A Árvore de Decisão é um modelo baseado em regras que divide o espaço de car
 
 #### Representação Matemática:
 
+$$ f(\mathbf{x}) = \sum_{j=1}^M c_j I(\mathbf{x} \in R_j) $$
+
 A Árvore de Decisão pode ser representada matematicamente por uma sequência de regras de decisão. Cada nó interno da árvore representa uma condição de divisão em um atributo, e os ramos representam os resultados dos testes. Os nós folhas representam as classes ou valores de saída.
 
 ### Support Vector Machine (SVM) com kernel RBF
