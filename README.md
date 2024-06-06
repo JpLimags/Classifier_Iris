@@ -108,7 +108,13 @@ Os resultados dos modelos no conjunto de dados de teste são os seguintes:
 
 ## Conclusão
 
-O KNN, a Árvore de Decisão e o SVM com kernel RBF são modelos eficazes para a classificação do conjunto de dados Íris. Cada modelo tem suas próprias vantagens e limitações, e a escolha do modelo mais adequado depende da natureza dos dados e dos requisitos do problema.
+Com base na análise dos resultados, podemos concluir que o KNN demonstrou uma capacidade excepcional de generalização, alcançando uma acurácia perfeita e um desempenho consistente em todas as métricas de avaliação. Sua abordagem de classificação baseada na proximidade dos vizinhos mais próximos provou ser altamente eficaz para o conjunto de dados Íris.
+
+A Árvore de Decisão, embora tenha obtido uma acurácia ligeiramente inferior em comparação com o KNN, ainda demonstrou um desempenho sólido. No entanto, observamos uma pequena queda na precisão e recall para algumas classes, o que sugere que a estrutura de decisão baseada em regras pode não ter capturado completamente a complexidade dos padrões presentes nos dados.
+
+Por outro lado, o SVM com kernel RBF alcançou uma acurácia próxima da perfeição e um equilíbrio sólido entre precisão e recall para todas as classes. Sua capacidade de mapear os dados para um espaço de características de alta dimensão e encontrar uma fronteira de decisão não linear provou ser eficaz para separar as classes de forma otimizada.
+
+Dado, o esposto concluímos que tanto o KNN quanto o SVM com kernel RBF são modelos altamente eficazes para a classificação do conjunto de dados Íris, com o KNN destacando-se pela sua simplicidade e eficiência computacional, enquanto o SVM com kernel RBF oferece uma abordagem mais flexível e poderosa para problemas de classificação não lineares. A Árvore de Decisão, embora seja uma opção viável, pode ser mais sensível à complexidade dos dados e requer ajustes cuidadosos para obter um desempenho comparável aos outros dois modelos.
 
 ## Outros projetos e Portifólio:
 Outros projetos de minha autoria e meu portifólio:
