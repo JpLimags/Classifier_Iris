@@ -112,4 +112,4 @@ O KNN, a Árvore de Decisão e o SVM com kernel RBF são modelos eficazes para a
 Outros projetos de minha autoria e meu portifólio:
 
 * **Analise de dados do Airbnb Los Angeles:** https://github.com/JpLimags/Analise_dados_Airbnb
-* **Como Implementar Regressão Linear com Python:** https://github.com/JpLimags/Portifolio
+* **Potifólio:** https://github.com/JpLimags/Portifolio
